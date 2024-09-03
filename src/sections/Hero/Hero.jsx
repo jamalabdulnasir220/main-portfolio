@@ -57,7 +57,7 @@ function Hero() {
           With a passion for developing modern React web apps for commercial
           businesses.
         </p>
-        <a href={CV} download>
+        <a href={C} download>
           <button className="hover">Resume</button>
         </a>
       </div>
